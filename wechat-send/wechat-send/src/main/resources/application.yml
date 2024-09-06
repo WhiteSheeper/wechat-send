@@ -1,0 +1,18 @@
+server:
+  port: 8003
+wechat:
+  ##?????
+  appId: 'wx871cc195d95976e5'
+  ##??
+  secret: '7a641922fd42b42d6b65ed3c1313954a'
+  ##???????
+  userId: 'o1q4-6-tnfgfnZp-_S088zQhUKCo'
+  ##????ID
+  templateId: '7gOdoNdnFDmC_O2WvUVgvDhLiIWxME55xctZZBs0qFg'
+  ##????????
+  district_id: '410500'
+  ##??ApiAK
+  ak: '0wCB0G9gOpYZtpaIN1MPA6xRxoiFT4gn'
+  ##???
+  loveDate: '2019-04-23'
+  birthday: '2001-09-28'
